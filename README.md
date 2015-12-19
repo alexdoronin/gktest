@@ -1,4 +1,4 @@
-# CDB. Couch DB module for the Drupal
+# CDB. Couch DB module for Drupal
 
 This is only a wrapper for Drupal for PHP-on-Couch library
 
